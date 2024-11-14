@@ -1,0 +1,11 @@
+title: Lukas Burger
+description: Personal website of Lukas Burger
+author: Lukas Burger
+url: https://lburgers.github.io
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+  sass_dir: _sass
+permalink: /blog/:year/:month/:day/:title 
